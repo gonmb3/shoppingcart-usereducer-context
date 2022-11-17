@@ -33,7 +33,7 @@ const Header = () => {
 
         <Nav>
 
-        <Dropdown alignLeft>
+        <Dropdown alignRight>
             <Dropdown.Toggle > 
             <Link to="/cart">
                   <FaShoppingCart color="white"size={23}/> {/*CART ----*/}

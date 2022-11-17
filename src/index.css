@@ -57,7 +57,7 @@ a{
 /*CART*/
 .dropdown-menu[data-bs-popper] {
     top: 100%;
-    right: 2px;
+    left: -18rem;
     margin-top: var(--bs-dropdown-spacer);
 }
 
